@@ -7,9 +7,9 @@ import (
 )
 
 func main() {
-	fmt.Println("Welcome to the Arsenal CLI")
+	fmt.Println("Welcome to the Gooners CLI")
 	printMenu()
-	fmt.Println("Thank you for using the Arsenal CLI")
+	fmt.Println("Thank you for using the Gooners CLI")
 }
 
 func printMenu() {
